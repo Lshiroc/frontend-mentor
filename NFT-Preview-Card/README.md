@@ -11,8 +11,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-with-css-flexbox-and-grid-oI2my9kTK(https://your-solution-url.com)
-- Live Site URL: [https://lshiroc.github.io/frontend-mentor/NFT-Preview-Card/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-with-css-flexbox-and-grid-oI2my9kTK](https://www.frontendmentor.io/solutions/nft-preview-card-with-css-flexbox-and-grid-oI2my9kTK)
+- Live Site URL: [https://lshiroc.github.io/frontend-mentor/NFT-Preview-Card/](https://lshiroc.github.io/frontend-mentor/NFT-Preview-Card/)
 
 ### Built with
 
