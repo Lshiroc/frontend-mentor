@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-css-flexbox-_vztdS-1x](https://your-solution-url.com)
+- Live Site URL: [https://lshiroc.github.io/frontendmentor/order-summary-component-main/](https://your-live-site-url.com)
 
 ### Built with
 
@@ -25,4 +25,4 @@ Users should be able to:
 
 ## Author
 - Zeynal 'Lshiroc' Mardanli
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lshiroc)
+- Frontend Mentor - [@lshiroc](https://www.frontendmentor.io/profile/lshiroc)
