@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display', sans-serif;
+
+}
+
+body {
+    background: url('images/pattern-background-desktop.svg');
+    background-repeat: no-repeat;
+    background-color: hsl(225, 100%, 94%);
+    height: 100vh;
+    display: grid;
+    justify-items: center;
+    align-items: center;
+}
+
+/* Header */
+header { display: flex; justify-content: center;}
+.attribution { font-weight: 700; color: black; font-family: 'Outfit', sans-serif;  font-size: 15px; text-align: center; top: 0; position: absolute; display: flex; justify-content: center;}
+.attribution a { color: hsl(224, 32%, 36%); transition: 0.6s; text-decoration-line: none;}
+.attribution a:hover { color: hsl(245, 75%, 52%);}
+
+
+.container {
+    width: 400px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 10px 18px hsl(224, 23%, 55%);
+}
+
+.context {
+    padding: 35px;
+}
+
+/* Elements */
+
+.image {
+    background: url('images/illustration-hero.svg') center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 185px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+/* Texts */
+
+h2 {
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    color: hsl(224, 23%, 55%);
+    text-align: center;
+    padding: 15px;
+    line-height: 1.5;
+}
+
+/* Info*/
+
+.info {
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: hsl(225, 100%, 98%);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.plan {
+    display: flex;
+    align-items: center;
+}
+
+.aboutplan {
+    margin-left: 10px;
+}
+
+.title {
+    font-weight: 900;
+    color: hsl(223, 47%, 23%);
+}
+
+.price {
+    color: hsl(224, 23%, 55%);
+}
+
+.set {
+    color: hsl(245, 75%, 52%);
+    border-bottom: 1px solid hsl(245, 75%, 52%);
+    font-weight: 700;
+}
+
+.set:hover {
+    transition: 0.4s;
+    color: rgba(56, 41, 224, 0.7);
+    border-color: transparent;
+    cursor: pointer;
+}
+
+/* Buttons */
+
+.pay {
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+    text-align: center;
+    padding: 15px 10px;
+    border-radius: 10px;
+    box-shadow: 0px 20px 12px hsl(225, 100%, 94%);
+    cursor: pointer;
+    margin: 25px 0px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.pay:hover {
+    transition: 0.6s;
+    background-color: rgba(56, 41, 224, 0.7);
+}
+
+.cancel {
+    font-weight: 700;
+    color: hsl(224, 23%, 55%);
+    text-align: center;
+    font-size: 15px;
+}
+
+.cancel:hover {
+    transition: 0.5s;
+    cursor: pointer;
+    color: hsl(223, 47%, 23%);
+}
