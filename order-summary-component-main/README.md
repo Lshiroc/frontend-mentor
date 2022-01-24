@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/order-summary-component-with-css-flexbox-_vztdS-1x](https://your-solution-url.com)
-- Live Site URL: [https://lshiroc.github.io/frontendmentor/order-summary-component-main/](https://your-live-site-url.com)
+- Live Site URL: [https://lshiroc.github.io/frontend-mentor/order-summary-component-main/](https://your-live-site-url.com)
 
 ### Built with
 
