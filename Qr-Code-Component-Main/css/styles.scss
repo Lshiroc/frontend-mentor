@@ -36,8 +36,8 @@ main {
     text-align: center;
 
     &__img {
-        width: 100%;
-        height: auto;
+        width: 288px;
+        height: 288px;
         border-radius: 10px;
     }
 
@@ -64,5 +64,10 @@ main {
         margin: 0px 5vw;
         line-height: 1.2;
         font-size: calc(1rem + 0.35vw);
+    }
+    
+    .component__img {
+        width: 100%;
+        height: auto;
     }
 }
