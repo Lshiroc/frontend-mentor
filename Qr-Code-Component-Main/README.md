@@ -12,7 +12,7 @@ Desing, photos and icons are provided by Frontendmentor.io
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://www.lshiroc.github.com/frontend-mentor/Qr-Code-Component-Main](https://www.lshiroc.github.com/frontend-mentor/Qr-Code-Component-Main)
+- Live Site URL: [https://lshiroc.github.io/frontend-mentor/Qr-Code-Component-Main/](https://lshiroc.github.io/frontend-mentor/Qr-Code-Component-Main/)
 
 
 ### Built with
