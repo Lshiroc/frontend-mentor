@@ -11,7 +11,7 @@ Desing, photos and icons are provided by Frontendmentor.io
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-main-with-bem-mXfclcD5s](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-main-with-bem-mXfclcD5s)
 - Live Site URL: [https://lshiroc.github.io/frontend-mentor/Qr-Code-Component-Main/](https://lshiroc.github.io/frontend-mentor/Qr-Code-Component-Main/)
 
 
