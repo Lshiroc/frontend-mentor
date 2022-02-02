@@ -41,19 +41,19 @@ main {
         border-radius: 10px;
     }
 
-    & header &__header {
-        font-size: 18px;
-        font-weight: 700;
-        color: $darkBlue;
-        padding: 24px 0px 0px 0px;
-    }
-
     &__text {
         font-size: 15px;
         font-weight: 400;
         color: $grayishBlue;
         padding: 13px 17px 24px 17px;
     }
+}
+
+.component header .component__header {
+        font-size: 18px;
+        font-weight: 700;
+        color: $darkBlue;
+        padding: 24px 0px 0px 0px;
 }
 
 @media screen and (max-width: 375px) {
