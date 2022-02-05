@@ -1,6 +1,6 @@
 This is a challange from Frontendmentor.io
 
-Coded by Zeynal Mardanli(Lshiroc)
+Coded by Zeynal Mardanli(Lshiroc)          
 Desing, photos and icons are provided by Frontendmentor.io
 
 ### Screenshot
