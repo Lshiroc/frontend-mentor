@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="978px" height="978px" viewBox="0 0 978 978" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient x1="0.5" y1="0.0077899997" x2="0.5" y2="1" id="gradient_1">
+      <stop offset="0%" stop-color="#0989B4" stop-opacity="0" />
+      <stop offset="99.94%" stop-color="#53FFEE" />
+    </linearGradient>
+    <path d="M0 0L978 0L978 978L0 978L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="bg-pattern-top">
+    <path d="M0 0L978 0L978 978L0 978L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M834.775 834.775C644.199 1025.35 334.898 1025.03 143.932 834.068C-47.0344 643.102 -47.351 333.801 143.225 143.225C333.801 -47.351 643.102 -47.0344 834.068 143.932C1025.03 334.898 1025.35 644.199 834.775 834.775Z" id="Ellipse" fill="url(#gradient_1)" fill-opacity="0.5" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
