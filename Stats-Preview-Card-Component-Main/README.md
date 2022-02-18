@@ -1,12 +1,5 @@
-# Frontend Mentor - Order summary card solution
-
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
+Design, icons and images are provided by frontendmentor.io                     
+Coded by Zeynal Mardanli(Lshiroc) with ❤️
 
 ### Screenshot
 
@@ -14,14 +7,14 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-with-flexbox-g7casKj-E](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-flexbox-g7casKj-E)
+- Live Site URL: [https://lshiroc.github.io/frontend-mentor/Stats-Preview-Card-Component-Main/](https://lshiroc.github.io/frontend-mentor/Stats-Preview-Card-Component-Main/)
 
 ### Built with
 
 - HTML
 - Flexbox
-- CSS Grid
+- CSS Custom Properties
 
 ## Author
 - Zeynal 'Lshiroc' Mardanli
