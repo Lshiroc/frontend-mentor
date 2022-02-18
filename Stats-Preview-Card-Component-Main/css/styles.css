@@ -116,7 +116,7 @@ main {
 }
 
 .card-img-overlay {
-    background-color: rgba(112, 58, 190, 0.4);
+    background-color: rgb(95 19 153 / 69%);
     position: absolute;
     top: 0;
     left: 0;
