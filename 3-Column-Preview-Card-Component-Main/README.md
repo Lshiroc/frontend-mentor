@@ -7,8 +7,8 @@ Coded by Zeynal Mardanli(Lshiroc) with ❤️
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/3-column-preview-card-component-main-DVMkfOvYv](https://www.frontendmentor.io/solutions/3-column-preview-card-component-main-DVMkfOvYv)
+- Live Site URL: [https://lshiroc.github.io/frontend-mentor/3-Column-Preview-Card-Component-Main/](https://lshiroc.github.io/frontend-mentor/3-Column-Preview-Card-Component-Main/)
 
 ### Built with
 
