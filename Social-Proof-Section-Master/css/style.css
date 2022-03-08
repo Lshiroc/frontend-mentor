@@ -27,7 +27,7 @@ body {
 /** Social Proof Section **/
 
 main {
-    padding: 72px 15px;
+    padding: 72px 15px 45px 15px;
     min-height: 100vh;
     background: url('../images/bg-pattern-top-desktop.svg'), url('../images/bg-pattern-bottom-desktop.svg');
     background-size: auto;
