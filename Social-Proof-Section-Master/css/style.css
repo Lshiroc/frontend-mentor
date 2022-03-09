@@ -148,7 +148,7 @@ main {
     border-radius: 50%;
 }
 
-.author h3{
+.author h2{
     color: var(--white);
     align-self: end;
 }
