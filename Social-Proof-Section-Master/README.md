@@ -7,8 +7,8 @@ Coded by Zeynal Mardanli(Lshiroc) with ❤️
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-MXfhgVTsq](https://www.frontendmentor.io/solutions/social-proof-section-MXfhgVTsq)
+- Live Site URL: [https://lshiroc.github.io/frontend-mentor/Social-Proof-Section-Master/](https://lshiroc.github.io/frontend-mentor/Social-Proof-Section-Master/)
 
 ### Built with
 
