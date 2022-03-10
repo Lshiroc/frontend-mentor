@@ -79,7 +79,7 @@ main {
     grid-row: 2 / 3;
     background-color: var(--sub-bg);
     color: white;
-    padding: 40px 0px 54px 40px;
+    padding: 40px 40px 40px 40px;
 }
 
 .subscription-title {
@@ -111,22 +111,30 @@ main {
 .sub-feature {
     font-size: 15.6px;
     font-weight: 300;
-    margin-bottom: 45px;
+    margin-bottom: 30px;
     letter-spacing: 0.2px;
 }
 
 .signup {
-    max-width: 238.7px;
-    box-shadow: -1px 13px 26px -2px rgba(0,0,0,0.75);
+    width: 100%;
+    box-shadow: -1px 13px 26px -18px rgba(0,0,0,0.75);
 }
 
 .sign-btn {
+    display: block;
+    width: 100%;
     font-size: 15.5px;
     font-weight: 700;
     color: var(--lightGray);
     background-color: var(--brightYellow);
     border-radius: 4.5px;
-    padding: 15px 90.5px;
+    padding: 15px 0;
+    text-align: center;
+    transition: .3s;
+}
+
+.sign-btn:hover {
+    background-color: rgb(204, 235, 70);
 }
 
 .whyus {
