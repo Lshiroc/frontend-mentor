@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;800&display=block");
+*, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none; }
+
+body {
+  background: #1f2632;
+  font-family: 'Manrope', sans-serif;
+  font-size: 100%; }
+
+.container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 16px; }
+
+.adviceBox {
+  max-width: 540px;
+  background-color: #323a49;
+  border-radius: 15px;
+  padding: 48px 47px 72px 47px;
+  position: relative;
+  display: grid;
+  grid-template-rows: repeat(3, auto);
+  position: relative; }
+  .adviceBox .adviceNo {
+    font-size: 15px;
+    font-weight: 600;
+    color: #52ffa8;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-bottom: 21px; }
+  .adviceBox .advice {
+    font-size: 28px;
+    font-weight: 800;
+    color: #cee3e9;
+    text-align: center;
+    margin-bottom: 40px; }
+  .adviceBox .divider {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden; }
+    .adviceBox .divider .dividerDesktop {
+      display: block; }
+    .adviceBox .divider .dividerMobile {
+      display: none; }
+  .adviceBox .adviceRoller {
+    justify-self: center;
+    position: absolute;
+    bottom: -32px;
+    width: 64px;
+    height: 64px;
+    background-color: #52ffa8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s;
+    transform: scale(1);
+    animation-duration: 0.8s;
+    animation-iteration-count: 1; }
+    .adviceBox .adviceRoller:hover {
+      transform: scale(1.04);
+      box-shadow: 0 0 30px #52ffa8; }
+    .adviceBox .adviceRoller.disabled {
+      background-color: #5a687d;
+      transform: scale(0.95); }
+      .adviceBox .adviceRoller.disabled:hover {
+        box-shadow: none; }
+@keyframes throwDice {
+  0% {
+    transform: rotate(0deg); }
+  100% {
+    transform: rotate(360deg); } }
+    .adviceBox .adviceRoller img {
+      width: 24px;
+      height: 24px; }
+
+@media screen and (max-width: 656px) {
+  .adviceBox {
+    padding: 44px 16px 64px 16px;
+    width: 100%; }
+
+  .adviceNo {
+    font-size: 13px; }
+
+  .advice {
+    font-size: 25px; }
+
+  .divider .dividerDesktop {
+    display: none; }
+  .divider .dividerMobile {
+    display: block; } }
+
+/*# sourceMappingURL=style.css.map */
